@@ -1,0 +1,12 @@
+{
+    "name": "NyanCat",
+    "identifier": "roe.nnnnnzo.nyancat",
+    "description": "Le chat de l'espace le plus connu débarque sur votre Freebox !",
+    "icon": "icon.png",
+    "entryPoints": {
+        "main": {
+            "file": "NyanCat.qml",
+            "default": true
+        }
+    }
+}
